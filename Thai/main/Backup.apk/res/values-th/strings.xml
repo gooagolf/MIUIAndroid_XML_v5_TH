@@ -2,15 +2,15 @@
 <resources>
     <string name="app_name">สำรองข้อมูล</string>
     <string name="local_app_name">สำรองข้อมูล</string>
-    <string name="local_home_title">Local backup</string>
+    <string name="local_home_title">สำรองข้อมูลภายใน</string>
     <string name="button_backup">สำรองข้อมูล</string>
-    <string name="start_backup">Start Backup</string>
+    <string name="start_backup">เริ่มสำรองข้อมูล</string>
     <string name="button_cancel">ยกเลิก</string>
-    <string name="backup_empty">No backup files found</string>
-    <string name="backup_items_sysdata_tailer">" System Data Files"</string>
-    <string name="backup_items_app_tailer">" App Data Files"</string>
-    <string name="backup_failed">Backup failed, please try again</string>
-    <string name="backup_recently">" (Latest)"</string>
+    <string name="backup_empty">ไม่พบไฟล์สำรองข้อมูล</string>
+    <string name="backup_items_sysdata_tailer">" ไฟล์ข้อมูลระบบ"</string>
+    <string name="backup_items_app_tailer">" ไฟล์ข้อมูลแอพ"</string>
+    <string name="backup_failed">สำรองข้อมูลล้มเหลว กรุณาลองใหม่</string>
+    <string name="backup_recently">" (ล่าสุด)"</string>
     <string name="sdcard_unmounted">SD card unmounted or not found!</string>
     <string name="backup_progress">กำลังสำรองข้อมูล...</string>
     <string name="button_ok">ตกลง</string>
