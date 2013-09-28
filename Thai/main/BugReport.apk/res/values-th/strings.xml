@@ -5,8 +5,8 @@
     <string name="report_miui">รายงาน</string>
     <string name="menu_send">ส่งรายงาน</string>
     <string name="menu_copy">คัดลอก</string>
-    <string name="menu_attach_screenshot">Attach screenshot</string>
-    <string name="menu_discard">Discard</string>
+    <string name="menu_attach_screenshot">แนบภาพหน้าจอ</string>
+    <string name="menu_discard">ยกเลิก</string>
     <string name="description">Description (required)</string>
     <string name="btn_send">ส่ง</string>
     <string name="err_type">ประเภทข้อเสนอแนะ</string>
